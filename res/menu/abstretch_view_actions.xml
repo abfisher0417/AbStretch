@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_overflow"
+        android:icon="@drawable/ic_action_overflow"
+        android:showAsAction="always"
+        android:title="@string/more">
+        <menu>
+            <item
+                android:id="@+id/action_overflow_bydate"
+                android:title="@string/groupby_date"/>
+            <item
+                android:id="@+id/action_overflow_byweek"
+                android:title="@string/groupby_week"/>
+            <item
+                android:id="@+id/action_overflow_bymonth"
+                android:title="@string/groupby_month"/>
+        </menu>
+    </item>
+
+</menu>

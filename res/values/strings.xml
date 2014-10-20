@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Ab Stretch</string>
+    <string name="chronometer">Chronometer</string>
+    <string name="action_view">View Activities</string>
+	<string name="finish">Finish</string>
+	<string name="alert_dialog_cancel">No, discard it</string>
+	<string name="alert_dialog_save">Yes, save it</string>
+	<string name="alert_finish_dialog_title">Are you sure you want to finish this activity?</string>
+	<string name="more">More</string>
+    <string name="core_button_desc">Record core work</string>
+	<string name="mobility_button_desc">Record mobility work</string>
+	<string name="startstop_desc">Start or stop</string>
+	<string name="groupby_month">By Month</string>
+	<string name="groupby_week">By Week</string>
+	<string name="groupby_date">By Date</string>
+    
+</resources>

@@ -2,7 +2,7 @@ package com.andrewfisher.abstretch;
 
 import java.util.Calendar;
 
-import com.example.abstretch.R;
+import com.andrewfisher.abstretch.R;
 
 import android.app.Activity;
 import android.app.DialogFragment;

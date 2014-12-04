@@ -3,7 +3,7 @@ package com.andrewfisher.abstretch;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.example.abstretch.R;
+import com.andrewfisher.abstretch.R;
 
 import android.app.ListActivity;
 import android.os.Bundle;

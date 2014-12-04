@@ -1,7 +1,7 @@
 package com.andrewfisher.abstretch;
 
 import com.andrewfisher.abstretch.AbStretchActivityArrayAdapter.RowType;
-import com.example.abstretch.R;
+import com.andrewfisher.abstretch.R;
 
 import android.view.LayoutInflater;
 import android.view.View;

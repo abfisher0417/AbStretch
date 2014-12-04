@@ -1,6 +1,6 @@
 package com.andrewfisher.abstretch;
 
-import com.example.abstretch.R;
+import com.andrewfisher.abstretch.R;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
